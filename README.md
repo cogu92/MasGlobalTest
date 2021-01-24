@@ -1,2 +1,1 @@
-# MasGlobalTest
-# MasGlobalTest
+# MasGlobal
